@@ -1,2 +1,2 @@
 # deltaxfc.github.io
-This is a website
+This is a DeltaX FC official website.
