@@ -10350,6 +10350,8 @@ body {
 
 .header-logo__img {
   position: relative;
+  height: 170px;
+  width: 170px;
 }
 
 /* Header Mobile */
